@@ -18,6 +18,8 @@ https://templatemo.com/tm-567-nomad-force
   --text-secondary-white-color:   rgba(255, 255, 255, 0.98);
   --title-color:                  #565758;
   --p-color:                      #717275;
+  --r-color:                      red;
+
 
   --body-font-family:           'Noto Sans JP', sans-serif;
 
@@ -43,7 +45,7 @@ html {
 }
 
 body {
-    background: var(--white-color);
+    background: var(--r-color);
     font-family: var(--body-font-family);    
     position: relative;
 }
