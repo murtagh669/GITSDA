@@ -21,7 +21,7 @@ https://templatemo.com/tm-567-nomad-force
 
   --body-font-family:           'Noto Sans JP', sans-serif;
 
-  --h1-font-size:               72px;
+  --h1-font-size:               96px;
   --h2-font-size:               42px;
   --h3-font-size:               36px;
   --h4-font-size:               32px;
@@ -371,11 +371,11 @@ strong {
 .heroText {
   position: absolute;
   z-index: 9;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  top: 0%;
+  left: 15%;
+  /* transform: translate(-50%, -50%); */
   width: 85%;
-  text-align: center;
+  text-align: left;
 }
 
 /*---------------------------------------
