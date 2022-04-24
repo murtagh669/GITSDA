@@ -4,7 +4,7 @@ Git_SDA is a repository for learning basics of GIT for SDA
 
 ## Installation
 
-Use the latest GIT Version from  [pip](https://git-scm.com/) to install GIT.
+Use the latest GIT Version from  [GIT WEBSITE](https://git-scm.com/) to install GIT.
 
 
 
